@@ -1,8 +1,7 @@
 Security Validator
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
-https://img.shields.io/badge/status-active-success.svg
-https://img.shields.io/badge/%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82-1%2520%D0%BA%D1%83%D1%80%D1%81-brightgreen.svg
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
 
 Валидатор безопасности на Python для обнаружения опасных паттернов в тексте.
 
@@ -51,3 +50,4 @@ Path Traversal: ../, ..\
 
 Лицензия
 MIT License
+
